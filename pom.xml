@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.nblair</groupId>
 	<artifactId>pipeline</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<name>Pipeline</name>
 	<description>Pipeline is a module to make multi-step parallel workflows easier to implement.</description>
 
